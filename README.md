@@ -2,6 +2,7 @@
 
 ## 自作基板作成
 * https://lang-ship.com/blog/work/pcb-04-pcb/#toc3
+* https://lang-ship.com/blog/work/pcb-05-check/
 
 ## サンプルコード作成
 
